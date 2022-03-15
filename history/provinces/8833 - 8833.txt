@@ -1,4 +1,4 @@
-#8833 - 8833
+#8811 - 8811
 #Area - 
 #Region - Australia
 
@@ -7,7 +7,7 @@ capital = "8833"
 is_city = no
 
 #Demographics
-culture = paman
+culture = maran
 religion = dreamtime
 native_size = 10			#(JP) 1 = 100
 native_ferocity = 1

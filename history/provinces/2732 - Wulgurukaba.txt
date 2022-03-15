@@ -1,6 +1,6 @@
  
 
-culture = paman
+culture = dyirbalic
 religion = dreamtime # 1.31
 capital = "Wulgurukaba"
 hre = no

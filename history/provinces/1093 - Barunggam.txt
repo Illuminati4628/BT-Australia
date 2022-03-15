@@ -1,6 +1,6 @@
  
 
-culture = paman # 1.31
+culture = maran # BT Australia
 religion = dreamtime # 1.31
 capital = "Barunggam"
 hre = no

@@ -1,0 +1,37 @@
+﻿l_english:
+ #Cultures
+ #Papuan Group
+ torres_strait_islander:0 "Muralag" #Main group on the islands represented, not all however
+ #Aboriginal Group
+ nyoongah:0 "Nyungar"
+ yura:0 "Yura-Kadli"
+ gamilaraay:0 "Wiradhuric"
+ kulin:0 "Kulinic"
+ aboriginal:0 "Yuin-Kuric"
+ palawa:0 "Lutruwitan"
+ yolngu:0 Yolngu"
+ tiwi:0 "Tiwi"
+ larrakia:0 "Larrakia"
+ marrithiyel:0 "Marrithiyel"
+ ngumpin:0 "Ngumpin"
+ nguriun:0 "Nguriun"
+ tangkic:0 "Tangkic"
+ arandic:0 "Arandic"
+ worrorran:0 "Worrorran"
+ pillbara:0 "Pillbara"
+ kartu:0 "Kartu"
+ mirning:0 "Mirning"
+ wati:0 "Wati"
+ karnic:0 "Karnic"
+ nangga:0 "Nangga"
+ ngarrindjeri:0 "Ngarrindjeri"
+ paakantyi:0 "Paakantyi"
+ gunai:0 "Gunai"
+ bandajalangic:0 "Bandajalangic"
+ maran:0 "Maran"
+ dyirbalic:0 "Dyirbalic"
+ mayabic:0 "Mayabic"
+ #British Group
+ anglo_australian:0 "Australian"
+ #Great Projects
+ uluru:0 "Uluru"
