@@ -3421,13 +3421,13 @@ northern_australia_area = {	#Capricornia
 	1093 2732 2733 8815 8819 8820 8852
 }
 north_queensland_area = {	#Northern Highlands
-	8821 8823 8851 8853 8854 8911 8932 8946 8960
+	8821 8823 8851 8853 8854 8911 8932 8960
 }
 central_highlands_area = {	#Central Highlands
-	8816 8817 8849 8918 8919 8947 8948 8949
+	8816 8912 8918 8919 8849 8946 8947 8949
 }
 south_queensland_area = {	#Southern Highlands
-	8814 8912 8921 8922 8943 8950 8951 8952
+	8814 8921 8922 8943 8950 8951 8952
 }
 cape_york_area = {	#Cape York
 	2731 8826 8830 8831 8832 8835 8905
@@ -3436,13 +3436,13 @@ gulf_country_area = {	#Gulf Country
 	2730 4848 4849 8834 8916 8917 8945
 }
 warrego_area = {	#Warrego
-	8812 8813 8930 8936 8937 8944 8953
+	8812 8813 8930 8936 8937 8944 8953 8954
 }
 granite_belt_area = {	#Granite Belt
-	4853 8811 8833 8855 8961 8954 8955
+	4853 4855 8811 8833 8855 8909 8961 8955
 }
 moreton_bay_burnett_area = {	#Moreton Bay-Burnett
-	1092 1094 4850 4852 4854 4855 8894 8931 8909
+	1092 1094 4850 4852 4854 8894 8931
 }
 	#New South Wales
 murray_river_area = {	#Murray
@@ -3455,6 +3455,7 @@ eastern_rangelands_area = {	#Eastern Rangelands
 	8804 8806 8840 8901 8920 8934 8956 8959 
 }
 western_rangelands_area = { #Western Rangelands
+	color = { 25 145 180 }
 	8785 8786 8805 8899 8900 8964
 }
 orana_area = {	#Orana
@@ -3476,6 +3477,19 @@ illawara_area = {	#Tasman Coast
 tasmania_area = { #Tasmania
 	1085 4868 4869 8773 8774 8775 8822 8904
 }
+	#Victoria
+bass_coast_area = {	#Bass Coast
+	1087 2735 8776 8778 8825 8891 8893 8976 8977
+}
+gippsland_area = {	#Gippsland
+	2734 8782 8827 8857 8914 8965 8966
+}
+indi_area = {	#Indi
+	8779 8780 8781 8783 8967 8973
+}
+mallee_area = {	#Mallee
+	1088 8777 8844 8846 8850 8856
+}
 	#South Australia
 southern_australia_area = {	#Limestone Coast
 	1086 8752 8754 8755 8756 8758 8759 8939 8940
@@ -3491,19 +3505,6 @@ lake_torrens_area = {	#Lake Torrens
 }
 lake_eyre_area = {	#Lake Eyre
 	8748 8838 8839 8908
-}
-	#Victoria
-bass_coast_area = {	#Bass Coast
-	1087 2735 8776 8778 8825 8891 8893 8976 8977
-}
-gippsland_area = {	#Gippsland
-	2734 8782 8827 8857 8914 8965 8966
-}
-indi_area = {	#Indi
-	8779 8780 8781 8783 8967 8973
-}
-mallee_area = {	#Mallee
-	1088 8777 8844 8846 8850 8856
 }
 	#Northern Territory
 top_end_area = {	#Top End
@@ -3540,6 +3541,7 @@ goldfields_area = {	#Goldfields
 western_bite_area = {	#Western Bite
 	2727 5686 8767 8867 8868 8974
 }
+
 ###
 # New Zealand
 ###

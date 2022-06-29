@@ -1465,19 +1465,19 @@ colombia_region = { # 13 areas
 		00.11.30
 	}
 }
-# Oceania / 3 regions / 25 areas
-australia_region = { # 36 areas
+# Oceania / 3 regions / 52 areas
+australia_region = { #39 Areas, Eastern Australia 
 	areas = {
-		northern_australia_area
+		northern_australia_area		#Queensland
 		north_queensland_area
 		central_highlands_area
 		south_queensland_area
 		cape_york_area
 		gulf_country_area
 		warrego_area
-		moreton_bay_burnett_area
 		granite_belt_area
-		murray_river_area
+		moreton_bay_burnett_area
+		murray_river_area			#New South Wales
 		murrumbidgee_area
 		eastern_rangelands_area
 		western_rangelands_area
@@ -1486,21 +1486,21 @@ australia_region = { # 36 areas
 		central_tablelands
 		eastern_australia_area
 		illawara_area
-		tasmania_area
-		southern_australia_area
+		tasmania_area				#Tasmania
+		bass_coast_area				#Victoria
+		gippsland_area
+		indi_area
+		mallee_area
+		southern_australia_area		#Southern Australia
 		eastern_bite_area
 		flinders_ranges_area
 		lake_torrens_area
 		lake_eyre_area
-		bass_coast_area
-		gippsland_area
-		indi_area
-		mallee_area
-		top_end_area
+		top_end_area				#Northern Australia
 		carpentaria_area
 		katherine_area
 		centralia_area
-		western_australia_area
+		western_australia_area		#Western Australia
 		pilbara_area
 		kimberley_area
 		murchison_area
