@@ -1,6 +1,6 @@
  
 
-culture = maran # BT Australia
+culture = bandajalangic # BT Australia
 religion = dreamtime # 1.31
 capital = "Barunggam"
 hre = no

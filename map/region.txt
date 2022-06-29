@@ -1466,19 +1466,47 @@ colombia_region = { # 13 areas
 	}
 }
 # Oceania / 3 regions / 25 areas
-australia_region = { # 6 areas
+australia_region = { # 36 areas
 	areas = {
-		western_australia_area
 		northern_australia_area
-		top_end_area
-		eastern_australia_area
-		southern_australia_area
+		north_queensland_area
+		central_highlands_area
+		south_queensland_area
+		cape_york_area
+		gulf_country_area
+		warrego_area
+		moreton_bay_burnett_area
+		granite_belt_area
 		murray_river_area
-		illawara_area # new in 1.31
-		north_queensland_area # new in 1.31
-		south_queensland_area # new in 1.31
-		pilbara_area # new in 1.31
-		tasmania_area # new in 1.31
+		murrumbidgee_area
+		eastern_rangelands_area
+		western_rangelands_area
+		orana_area
+		southern_tablelands
+		central_tablelands
+		eastern_australia_area
+		illawara_area
+		tasmania_area
+		southern_australia_area
+		eastern_bite_area
+		flinders_ranges_area
+		lake_torrens_area
+		lake_eyre_area
+		bass_coast_area
+		gippsland_area
+		indi_area
+		mallee_area
+		top_end_area
+		carpentaria_area
+		katherine_area
+		centralia_area
+		western_australia_area
+		pilbara_area
+		kimberley_area
+		murchison_area
+		wheatbelt_area
+		goldfields_area
+		western_bite_area
 	}
 	monsoon = {
 		00.10.01

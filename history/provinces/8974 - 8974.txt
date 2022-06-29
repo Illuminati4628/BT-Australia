@@ -1,0 +1,16 @@
+
+culture = mirning
+religion = dreamtime
+capital = "8974"
+hre = no
+base_tax = 1
+base_production = 1
+base_manpower = 1
+trade_goods = unknown
+native_size = 20
+native_ferocity = 2
+native_hostileness = 9
+
+discovered_by = aboriginal_tech
+
+1619.1.10 = { discovered_by = NED } # Frederick de Houtman
